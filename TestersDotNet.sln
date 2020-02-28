@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MileageCalculator", "MileageCalculator\MileageCalculator.csproj", "{489890C0-CADF-477E-AB9B-FD44C946BA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileExistsForm", "TestFileExistsForm\TestFileExistsForm.csproj", "{0DA314C6-EDD5-4EE1-B7E6-3CDA50485CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileExistsConsole", "TestFileExistsConsole\TestFileExistsConsole.csproj", "{AD9E3ED4-EB31-472C-AD20-F2F0F9540F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReadUtility", "TextReadUtility\TextReadUtility.csproj", "{44D1665E-19E3-4410-A012-8742966FB3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryUtility", "RegistryUtility\RegistryUtility.csproj", "{8E8FE527-6D34-4B26-8C38-FFCA3BC86709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTest1Template", "DatabaseTest1Template\DatabaseTest1Template.csproj", "{201A5CA3-7DAD-4372-A68D-2B9A14DA9E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489890C0-CADF-477E-AB9B-FD44C946BA60}.Debug|x86.ActiveCfg = Debug|x86
+		{489890C0-CADF-477E-AB9B-FD44C946BA60}.Debug|x86.Build.0 = Debug|x86
+		{489890C0-CADF-477E-AB9B-FD44C946BA60}.Release|x86.ActiveCfg = Release|x86
+		{489890C0-CADF-477E-AB9B-FD44C946BA60}.Release|x86.Build.0 = Release|x86
+		{0DA314C6-EDD5-4EE1-B7E6-3CDA50485CAC}.Debug|x86.ActiveCfg = Debug|x86
+		{0DA314C6-EDD5-4EE1-B7E6-3CDA50485CAC}.Debug|x86.Build.0 = Debug|x86
+		{0DA314C6-EDD5-4EE1-B7E6-3CDA50485CAC}.Release|x86.ActiveCfg = Release|x86
+		{0DA314C6-EDD5-4EE1-B7E6-3CDA50485CAC}.Release|x86.Build.0 = Release|x86
+		{AD9E3ED4-EB31-472C-AD20-F2F0F9540F35}.Debug|x86.ActiveCfg = Debug|x86
+		{AD9E3ED4-EB31-472C-AD20-F2F0F9540F35}.Debug|x86.Build.0 = Debug|x86
+		{AD9E3ED4-EB31-472C-AD20-F2F0F9540F35}.Release|x86.ActiveCfg = Release|x86
+		{AD9E3ED4-EB31-472C-AD20-F2F0F9540F35}.Release|x86.Build.0 = Release|x86
+		{44D1665E-19E3-4410-A012-8742966FB3CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{44D1665E-19E3-4410-A012-8742966FB3CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{8E8FE527-6D34-4B26-8C38-FFCA3BC86709}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8E8FE527-6D34-4B26-8C38-FFCA3BC86709}.Release|x86.ActiveCfg = Release|Any CPU
+		{201A5CA3-7DAD-4372-A68D-2B9A14DA9E0B}.Debug|x86.ActiveCfg = Debug|x86
+		{201A5CA3-7DAD-4372-A68D-2B9A14DA9E0B}.Debug|x86.Build.0 = Debug|x86
+		{201A5CA3-7DAD-4372-A68D-2B9A14DA9E0B}.Release|x86.ActiveCfg = Release|x86
+		{201A5CA3-7DAD-4372-A68D-2B9A14DA9E0B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
